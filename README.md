@@ -10,7 +10,7 @@ Show the current situation of COVID-19 across the globe by successfully fetch da
 
 PREVIEW
 
-<img src="https://user-images.githubusercontent.com/53394560/83331546-6cb58280-a2b0-11ea-88d8-205fab9ac41d.gif " width="300" height="500" >
+<img src="https://user-images.githubusercontent.com/53394560/83334978-641a7780-a2c3-11ea-96d4-82f22072be16.gif" width="300" height="500" >
 
 
 
