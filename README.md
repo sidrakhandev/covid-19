@@ -3,6 +3,6 @@
 
 PREVIEW
 
-![ezgif com-video-to-gif (2)](https://user-images.githubusercontent.com/53394560/83331388-7e4a5a80-a2af-11ea-840c-59beab1d7631.gif)
+![ezgif com-video-to-gif (3)](https://user-images.githubusercontent.com/53394560/83331546-6cb58280-a2b0-11ea-88d8-205fab9ac41d.gif)
 
 
