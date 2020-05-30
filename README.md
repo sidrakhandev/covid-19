@@ -10,7 +10,10 @@ Show the current situation of COVID-19 across the globe by successfully fetch da
 
 PREVIEW
 
-![ezgif com-video-to-gif (3)](https://user-images.githubusercontent.com/53394560/83331546-6cb58280-a2b0-11ea-88d8-205fab9ac41d.gif =250x250)
+<img src="![ezgif com-video-to-gif (3)](https://user-images.githubusercontent.com/53394560/83331546-6cb58280-a2b0-11ea-88d8-205fab9ac41d.gif " width="48">
+
+![ezgif com-video-to-gif (3)](https://user-images.githubusercontent.com/53394560/83331546-6cb58280-a2b0-11ea-88d8-205fab9ac41d.gif 
+=250x250)
 
 # LICENSE 🔑
 
