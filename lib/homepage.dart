@@ -76,10 +76,10 @@ class _HomePageState extends State<HomePage> {
                           Text('ACTIVE' +'   '+
                               countryData[index]['active'].toString(),style:TextStyle( color:Colors.yellow[900],fontWeight: FontWeight.bold,fontSize: 15)),
                           Text('RECOVERED' +'   '+
-                              countryData[index]['cases'].toString(),
+                              countryData[index]['recovered'].toString(),
                               style:TextStyle( color:Colors.green[700],fontWeight: FontWeight.bold,fontSize: 15)),
                           Text('DEATHS' +'   '+
-                              countryData[index]['cases'].toString(),
+                              countryData[index]['deaths'].toString(),
                               style:TextStyle( color:Colors.red[900],fontWeight: FontWeight.bold,fontSize: 15)),
                         ],
                       )))
